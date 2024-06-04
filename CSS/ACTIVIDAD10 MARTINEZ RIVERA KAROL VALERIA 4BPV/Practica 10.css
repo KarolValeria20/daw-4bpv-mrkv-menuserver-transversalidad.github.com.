@@ -1,0 +1,48 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 11(Practica 10.html). Desde un Archivo CSS(Practica 10.css)*/
+
+body{
+	background-image: url("GIFS/fondo.gif");
+    background-size: 100%;
+    padding: 0px;
+}
+h1{
+	color: rgb(0, 195, 255);
+	font-size: 40px;
+	text-align: center;
+}
+.table{
+	background-color: #dac2f3be;
+	color: #2766A9;
+	width: 200px;
+	height: 200px;
+}
+img{
+	height: 200px;
+	width: 300px;
+}
+h5{
+	color: rgb(221, 159, 26);
+	text-align: right;
+	font-size: medium;
+}
+.cubo{
+	height: 180px;
+    width: 220px;
+}
+.ruta{
+	text-align: center;
+	color: aqua;
+
+}
+.H1{
+	color: green;
+}
+.H2{
+	color: red;
+}
+.H3{
+	color: yellow;
+}

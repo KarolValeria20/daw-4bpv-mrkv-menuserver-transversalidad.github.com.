@@ -1,0 +1,75 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 6(Practica6.html). Desde un Archivo CSS(Practica6.css)*/
+
+body{
+	background-color: rgb(43, 106, 166);
+	padding:50px;
+}
+h1{
+	color: green;
+	font-size: 50px;
+	font-family:"Times New Roman";
+	text-align: center;
+}
+.img1{
+	height: 200px;
+    width: 350px;
+}
+h3{
+	font-size: 25px;
+	font-family:Verdana;
+}
+.H1{
+	color: #ec0995;
+	text-align: left;
+}
+.img2{
+	height: 300px;
+	width: 450px;
+	align-content: left;
+}
+.H2{
+	color: #ff0c5d;
+	text-align: right;
+}
+.img3{
+	height: 300px;
+	width: 450px;
+}
+.H3{
+	color: #880dfa;
+	text-align: center;
+}
+.img4{
+	height: 200px;
+	width: 450px;
+}
+.table{
+	background-color: rgb(84, 185, 84);
+	color: aqua;
+	text-align: center;
+}
+h5{
+	color: #BB0BEB;
+	font-size: 20px;
+	font-family: Palatino;
+	text-align: right;
+}
+.CUBO{
+	text-align: center;
+}
+.cubo{
+    height: 180px;
+    width: 220px;
+}
+.card{
+	color: green;
+}
+.card1{
+	color: red;
+}
+.card2{
+	color: yellow;
+}

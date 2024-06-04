@@ -1,0 +1,113 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 9(Practica8.html). Desde un Archivo CSS(Practica8.css)*/
+
+body{
+	background-image: url("IMAGENES/Dibujado.jfif") ;
+    background-size: 100%;
+	padding:0px;
+}
+h1{
+	color: rgb(141, 141, 4);
+	font-size: 40px;
+	text-align: center;
+}
+.img{
+	height: 200px;
+	width: 300px;
+}
+.card{
+	color: #24a54f;
+	text-align: center;
+	font-size: 30px;
+}
+.card1{
+	color: #B63806;
+    align-content:center ;
+    text-align: center;
+	font-size: 20px;
+}
+.card2{
+	color: #01D8BE;
+	text-align:right;
+	font-size: 30px;
+}
+.card3{
+	color: #02D82C;
+    align-content:flex-start ;
+    text-align:right;
+	font-size: 20px;
+}
+.card4{
+	color: #4B0686;
+	font-size: 30px;
+	text-align: left;
+}
+.card5{
+	color: #B63806;
+    align-content:flex-end ;
+    text-align: left;
+	font-size: 20px;
+}
+.card6{
+	color: #76448A;
+	font-size: 30px;
+	text-align: center;
+}
+.card7{
+	color: #9B59B6;
+    align-content:center ;
+    text-align: center;
+	font-size: 20px;
+}
+.card8{
+	color: #1F6180;
+	font-size: 30px;
+	text-align: right;
+}
+.card9{
+	color: #B7950B;
+    align-content:flex-start ;
+    text-align: right;
+	font-size: 20px;
+}
+.card10{
+	color: #F1948A;
+	font-size: 30px;
+	text-align: left ;
+}
+.card11{
+	color: #0E6251;
+    align-content:flex-end ;
+    text-align: left;
+	font-size: 20px;
+}
+.table{
+	background-color: #E1BEE1;
+	color: #7986CB;
+}
+OL{
+	color: rgba(238, 149, 48, 0.938);
+	font-size: 30px;
+}
+h5{
+	color: red;
+	text-align:right ;
+}
+.CUBO{
+	text-align: center;
+}
+.cubo{
+    height: 180px;
+    width: 220px;
+}
+.H1{
+	color: green;
+}
+.H2{
+	color: red;
+}
+.H3{
+	color: yellow;
+}

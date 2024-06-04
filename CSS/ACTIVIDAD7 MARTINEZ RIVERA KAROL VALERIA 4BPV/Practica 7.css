@@ -1,0 +1,55 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 8(Practica 7.html). Desde un Archivo CSS(Practica 7.css)*/
+
+body{
+	background-color: pink;
+	padding:50px;
+}
+h1{
+	color: orange;
+	font-size: 30px;
+	font-family: "bakerisignet bt" ;
+	text-align: center;
+}
+.card0{
+	color: yellow;
+	font-size: 25px;
+	font-family: "bakerisignet bt" ;
+	
+}
+.card1{
+	color: green;
+	font-size: 25px;
+	font-family: "bakerisignet bt" ;
+}
+.card2{
+	color:rgba(189, 127, 52, 0.952);
+	font-size: 25px;
+	font-family: "bakerisignet bt" ;
+} 
+.card3{
+	color: purple;
+	font-size: 25px;
+	font-family: "bakerisignet bt" ;
+	text-align: left;
+}
+.card4{
+	color: red;
+	font-family: Calibri;
+	text-align: right;
+}
+.cubo{
+    height: 180px;
+    width: 220px;
+}
+.H1{
+	color: green;
+}
+.H2{
+	color: red;
+}
+.H3{
+	color: yellow;
+}

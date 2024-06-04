@@ -1,0 +1,64 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 12 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 2(PRACTICA 1.html). Desde un Archivo CSS(PRACTICA 1.css)*/
+
+body{
+	background-color: rgb(91, 87, 86);
+	padding:50px;
+}
+h1{
+	color: red;
+	font-family:georgia ;
+}
+h2{
+	color: yellow ;
+	font-family: georgia;
+}
+.h2{
+	color: blue;
+	font-family: Georgia;
+}
+h3{
+	color: pink;
+	font-family:calibri ;
+}
+.h3{
+	color: purple;
+	font-family: Calibri;
+}
+h4{
+	color: maroon;
+	font-family:calibri ;
+}
+.h4{
+	color: brown;
+	font-family:calibri ;
+}
+h5{
+	color: maroon;
+	font-family:calibri ;
+}
+.h5{
+	color: cornflowerblue;
+	font-family:calibri ;
+}
+h6{
+	color: blue;
+	font-family:calibri ;
+	text-align: right;
+}
+.card1{
+	color: red;
+}
+.card2{
+	color: yellow;
+}
+.CUBO{
+	text-align: center;
+	
+}
+.cubo{
+	height: 180px;
+    width: 200px;
+}

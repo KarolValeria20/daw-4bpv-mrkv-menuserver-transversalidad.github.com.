@@ -1,0 +1,52 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 6(Practica 5.html). Desde un Archivo CSS(Practica 5.css)*/
+
+body{
+	background-color: rgb(166, 65, 43);
+	padding:50px;
+}
+h1{
+	color: blue;
+	font-size: 50px;
+	font-family:Tahoma;
+	text-align: center;
+}
+h3{
+	font-size: 35px;
+	font-family: Tahoma;
+}
+.p1{
+	color:#0D628A  ;
+	text-align: left;
+}
+.p2{
+	color:#3ECF04 ;
+	text-align: center;
+}
+.p3{
+	color:#04CFAD  ; 
+	text-align: right;
+}
+h4{
+	color: #5F0D8A;
+	font-size: 20px;
+	text-align: right;
+}
+.CUBO{
+	text-align: center;
+}
+.cubo{
+    height: 180px;
+    width: 220px;
+}
+.card{
+	color: green;
+}
+.card1{
+	color: red;
+}
+.card2{
+	color: yellow;
+}

@@ -1,0 +1,148 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 19 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 10(Practica9.html). Desde un Archivo CSS(Practica9.css)*/
+body {
+    background-image: url("GIFS/35 Gifs.gif");
+    background-size: 100%;
+    padding: 0px;
+}
+h1 {
+    color: #c999af;
+    text-align: center;
+    font-size: 40px;
+}
+.img1 {
+    height: 380px;
+    width: 420px;
+    border: 4px solid rgba(107, 0, 139, 0.664);
+}
+.card {
+    text-align: center;
+    color: #96c4c4;
+    font-size: 25px;
+}
+.img2 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(0, 139, 12, 0.664);
+}
+.card1 {
+    text-align: right;
+    color: #8f7193;
+    font-size: 25px;
+}
+.img3 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(0, 49, 139, 0.664);
+}
+.card2 {
+    text-align: left;
+    color: #6a9eda;
+    font-size: 25px;
+}
+.img4 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(139, 0, 76, 0.664);
+}
+.video{
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(139, 0, 76, 0.664); 
+}
+.card3 {
+    text-align:center;
+    color: #da6a99;
+    font-size: 25px;
+}
+
+.card4 {
+    text-align:center;
+    color: #d8da6a;
+    font-size: 25px;
+}
+.card5 {
+    text-align:left;
+    color: #d8af97;
+    font-size: 25px;
+}
+.img5 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(0, 123, 139, 0.664);
+}
+.video1{
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(0, 123, 139, 0.664);
+}
+.card6 {
+    text-align: right;
+    color: #9bd3ae;
+    font-size: 25px;
+}
+
+.img6 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(202, 199, 14, 0.664);
+}
+
+.card7 {
+    text-align: center;
+    color: #ff6961;
+    font-size: 25px;
+}
+.video2{
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(202, 199, 14, 0.664);
+}
+.img7 {
+    height: 280px;
+    width: 320px;
+    border: 3px solid rgba(199, 18, 18, 0.664);
+}
+.card8 {
+    text-align: right;
+    color: #aedddd;
+    font-size: 25px;
+}
+.ol {
+    text-align: left;
+    color: #c0a0c3;
+    font-size: 32px;
+}
+.olo{
+    text-align: center;
+    color: #90c5c5;
+    font-size: 32px;
+}
+.table{
+    background-color:#a2c8cc ;
+    color: #ff85d5;
+    font-size: medium;
+    text-align: center;
+}
+.table1{
+    background-color: #e79eff;
+    color: #a3ffac;
+    font-size: medium;
+    text-align: center;
+}
+h5{
+    color: red;
+    text-align: right;
+    
+}
+.H1{
+    color: green;
+}
+.H2{
+    color: red;
+}
+.H3{
+    color: yellow;
+}

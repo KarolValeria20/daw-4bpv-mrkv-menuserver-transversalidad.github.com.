@@ -1,0 +1,46 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 12 de marzo del 2024*/
+/*A continuación le aplicamos CSS a al actividad 4(Practica 3.html). Desde un Archivo CSS(Practica 3.css)*/
+
+body{
+	background-color: grey;
+	padding:50px;
+}
+h1{
+	color: blue;
+	font-family: didot;
+}
+.p{
+	text-align: left;
+	color: maroon;
+	font-family: optima;
+	font-size: 20px;
+}
+.p1{
+	text-align: right;
+	color: maroon;
+	font-family: optima;
+	font-size: 20px;
+}
+.card{
+	color: green;
+}
+.card1{
+	color: red;
+}
+.card2{
+	color: yellow;
+}
+.CUBO{
+	text-align: center;
+}
+.cubo{
+    height: 180px;
+    width: 220px;
+}
+.h4{
+	color: pink;
+	font-family: calibri;
+	text-align: right;
+}

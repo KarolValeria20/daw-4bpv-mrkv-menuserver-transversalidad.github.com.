@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practia 2 Canción</title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica2.css" media="all"/>
+<body>
+<body bgcolor="yellow">
+<center>
+<img src = "D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/hate you.jpg">
+<h1><font face ="didot" color="blue"> Hate You </font></h1>
+<h2><font face ="didot" color="blue"> Artista: Jeon JungKook </font></h2>
+</center>
+
+<h3>
+<font face="optima" color="green">
+<p align="left">I wish you went behind my back <br>
+And told me lies and stuff like that <br>
+I wish you kissed someone I know <br>
+And did the unforgivable <br>
+<br>
+Maybe hatin' you's the only way it doesn't hurt </p>
+
+<p align="center">So I'm gonna hate you <br>
+I'm gonna hate you <br>
+Paint you like the villain that you never were <br>
+I'm gonna blame you <br>
+For things that you don't do <br>
+Hating you's the only way it doesn't hurt </p>
+
+<p align="right">We weren't perfect, but we came close <br>
+Until I put all of our pain under the microscope <br>
+And I still can't face it <br>
+I'm still in love, for what it's worth <br>
+<br>
+Maybe hatin' you's the only way it doesn't hurt </p>
+
+<p align="left">So I'm gonna hate you <br>
+I'm gonna hate you <br>
+Paint you like the villain that you never were <br>
+I'm gonna blame you <br>
+For things that you don't do <br>
+Hating you's the only way it doesn't hurt </p>
+
+<p align="right"> Ooh, ooh, ooh, ooh-ooh <br>
+Ooh, ooh, ooh, ooh-ooh <br>
+<br>
+It's not the truth <br>
+It's not the cure <br>
+But hatin' you's the only way it doesn't hurt </p>
+</font>
+</h3>
+
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV\PRACTICA1.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 3.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+
+<h5 align = right><font face="calibri"> Alumno: Mártínez Rivera Karol Valeria </font></h5>
+<h5 align = right><font face="calibri"> Grupo: 4BPV Materia:
+Desarrolla Aplicaciones WEB</font></h5>
+<img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

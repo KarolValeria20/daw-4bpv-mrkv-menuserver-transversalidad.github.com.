@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Practica 1 En HTML, Portada del Plantel </title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV\PRACTICA 1.css" media="all"/>
+</head>
+<body>
+<center>
+<h1><font face="georgia" > Bienvenidos al Planetel Educativo Media-Superior</font></h1>
+<h2><font face="georgia" > Escuela Preparatoria Cetis 156</font></h2>
+<h2><font face="georgia" > Centro de Estudios Tecnológicos Industrial y de Servicios No.156  Gral.Felipe Angeles Ramirez </font></h2>
+<img src = "D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/Cetis 156.jpg">
+
+
+<h3><font face="calibri" > Carreras:</h3>
+<h3><font face="calibri" > Programación</h3>
+<h3><font face="calibri" > Electrónica</h3>
+</center>
+
+
+<h4><font face="calibri" > A.v. Del Parque S/N Mesa de Otay</font></h4>
+<h4><font face="calibri" > C.P. 22430 Tijuana Península de B.C.</font></h4>
+<h5><font face="calibri" > 664 623 1376</font></h5>
+<h5><font face="calibri" > cetis156.escolares@dgeti.sems.gob.mx</font></h5>
+<h6 align = right><font face="calibri" > Alumno: Mártínez Rivera Karol Valeria </font></h6>
+<h6 align = right><font face="calibri" > Grupo: 4BPV Materia:
+Desarrolla Aplicaciones WEB</font></h6>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica2.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

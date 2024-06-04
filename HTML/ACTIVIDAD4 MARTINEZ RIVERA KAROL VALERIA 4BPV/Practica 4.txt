@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Practica 4 Receta de Galletas de Nutella</title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 4.css" media="all"/>
+</head>
+<body>
+<body bgcolor=>
+<center>
+<h1><font face="georgia" >GALLETAS DE NUTELLA</font></h1>
+<img src="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/galletas.jpg">
+</center>
+
+<h2><font face="book antiqua" > Ingredientes: <br>
+<ul>
+<li> 300 gr de Nutella</li>
+<li> 1 Huevo</li>
+<li> 85gr de harina todo uso</li>
+<li> 1 cucharadita de polvo para hornear</li>
+<li>Para los topping: 2 oreo y una bolsita de m&ms</li>
+</ul>
+</font></h2>
+
+<h2><font face="book antiqua" > Instrumentos:<br>
+<ul>
+<li>Horno</li>
+<li>Bandeja plana de horno</li>
+<li>Mat de silicona o papel de horno para que no se peguen</li>
+<li>Batidora eléctrica o globo de lo haces a mano</li>
+<li> Bowls y cucharas</li>
+</ul>
+</font></h2>
+
+<h2 align="right"><font face="book antiqua"> Instrucciones:<br>
+<ul>
+<li><Precalienta el horno a 180°C con ventilador o calor<br> 
+por arriba y por debajo</li>
+<li> Retira la bandeja de horno donde pondrás las galletas,<br>
+esra TIENE Que estar fría.</li>
+<br>
+<li> Primero bate con una batidora eléctrica(o si no tienes lo puedes<br> 
+Hacer a mano) 1 huevo con 300 gr de nutella hasta que esté homogéneo.</li>
+<li>Luego agrega los 85 gr de harina y la cucharita de polvo de hornear<br>
+y bate de nuevo.</li>
+<li>Tiene que quedar homogéneo.</li>
+</ul>
+</font></h2>
+
+<h2 align="right"><font face="book antiqua"> Ahora a armar las galletas:<br>
+<ul>
+<li> Con una cuchara arma unas 10 pelotitas de galleta de<br>
+aproximadamente 3cm de diámetro</li>
+<img src="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/bolitas.JPG">
+<li> No las hagas más grandes que esto ya que estas galletas se<br> 
+aplanan y se esparcen y si las haces muy grandes te quedaran unos galletones enormes</li>
+</ul>
+</font></h2>
+
+<center>
+<h2><font face="book antiqua" > Para terminar:<br>
+<ul>
+<li> Pon MÁXIMO 6 galletas a la vez en la bandeja de horno, dejando un<br> 
+<espacio de 4 cm entre galleta y galleta ya que, como ya les advertí, estas galletas <br>
+se esparcen.</li>
+<li>Inserta todos los m&m's y oreos partidas en cuadraditos que tu <br>
+<corazón desee. </li>
+<img src="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/decoracion.JPG">
+<li> Luego meterlas al horno por 10 minutos, a 180ºC, los bordes tienen que<br> 
+quedarse crujientes y el centro suavecito.</li>
+<li> Si se te pasan te van a quedar duras.</li>
+<li> Ojo, cada horno es diferente así que puede que en el tuyo necesite más o<br>
+<menos tiempo, dependiendo de lo potente que sea, te recomiendo que las estén mirando y que las <br>
+saques cuando los bordes estén crujientes.</li>
+<li>Déjalas enfriar y LISTO!! A DISFRUTAR!!!</li>
+</ul>
+</font></h2>
+</center>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 3.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 5.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<h5 align = right><font face="calibri" > Alumno: Mártínez Rivera Karol Valeria </font></h5>
+<h5 align = right><font face="calibri" > Grupo: 4BPV Materia: Desarrolla Aplicaciones WEB</font></h5>
+<img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

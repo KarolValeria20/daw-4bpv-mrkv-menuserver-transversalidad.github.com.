@@ -1,0 +1,52 @@
+/*Este es un comentario en CSS*/
+/*ME MARTINEZ RIVERA KAROL VALERIA GRUPO:4BPV*/
+/*DAW(Desarrolla Aplicaciones WEB) Fecha: 29 de mayo del 2024*/
+/*A continuación le aplicamos CSS a al html(Ecologia.html). Desde un Archivo CSS(Ecologia.css)*/
+body {
+    background-color: rgb(96, 155, 207);
+    padding: auto;
+}
+
+h1 {
+    color: rgb(147, 255, 84);
+    ;
+    font-size: 50px;
+    font-family: "Latin Modern Roman";
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabla {
+    background-color: rgb(187, 208, 226);
+    font-size: large;
+    align-content: left;
+    color: #059b37;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: rigth;
+}
+
+.tabla1 {
+    background-color: rgba(69, 163, 119, 0.788);
+    color: #054642;
+    font-size: large;
+    align-content: right;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+.H1{
+    color: green;
+}
+.H2{
+    color: red;
+}

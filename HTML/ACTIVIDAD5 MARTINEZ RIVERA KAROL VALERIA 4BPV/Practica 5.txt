@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 5 Historia del HTML </title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 5.css" media="all"/>
+</head>
+<body>
+<center>
+<h1><font face ="didot"> HISTORIA DEL HTML </font></h1>
+<img src="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/HTML.jpg">
+<h2>
+<font face="optima">	
+<p>< Definiéndolo de forma sencilla, "HTML es el lenguaje que se utiliza<br> 
+para crear las páginas web a las que se accede mediante internet". Más <br>
+concretamente, HTML es el lenguaje con el que se "escriben" la mayoría de<br>
+páginas web.<br>
+Los diseñadores utilizan el lenguaje HTML para crear páginas web, los<br> 
+programas que se emplean generan páginas escritas en HTML y los navegadores<br
+> que utilizamos (por ejemplo Google Chrome, Opera o Mozilla Firefox)<br> 
+muestran las páginas web después de leer e interpretar su contenido HTML.</p>
+
+<p>El origen de HTML se remonta a 1980, cuando el físico Tim Berners-Lee,<br>
+investigador del CERN (Organización Europea para la Investigación Nuclear)<br>
+propuso un nuevo sistema de “hipertexto” para compartir documentos.<br>
+Los sistemas de hipertexto habían sido desarrollados años antes. <br>
+En el ámbito de la informática, el hipertexto permite que los usuarios <br>
+accedan a la información relacionada con los documentos electrónicos que <br>
+visualizan. En cierta manera, los primitivos sistemas de hipertexto <br>
+podrían asimilarse a los enlaces de las páginas web actuales.<br>
+Tras finalizar el desarrollo de su sistema, Tim Berners-Lee lo presentó a<br> 
+una convocatoria organizada para desarrollar un sistema de hipertexto para<br>
+internet. Después de unir sus fuerzas con el ingeniero de sistemas Robert <br>
+Cailliau, presentaron la propuesta ganadora llamada WorldWideWeb (W3). El <br>
+primer documento formal con la descripción de HTML se publicó en 1991 bajo<br>
+el nombre “HTML Tags” (Etiquetas HTML) y todavía hoy puede ser consultado <br>
+en línea a modo de reliquia informática.</p>
+
+<p>La primera propuesta oficial para convertir HTML en un estándar se realizó<br>
+en 1993 por parte del organismo IETF (Internet Engineering Task Force).<br> 
+En 1995, el organismo IETF organizó un grupo de trabajo de HTML y el 22 de<br>
+septiembre publicaron el estándar HTML 2.0. A pesar de su nombre, HTML 2.0 es<br>
+el primer estándar oficial de HTML.<br>
+HTML 4.0 se publicó el 24 de Abril de 1998 (versión corregida de la <br>
+publicación del 18 de Diciembre de 1997) y supuso un gran salto desde las <br>
+versiones anteriores. <br>
+La última especificación oficial de HTML se publicó el 24 de diciembre de <br>
+1999 y se denomina HTML 4.01. Se trata de una revisión y actualización de la <br>
+versión HTML 4.0, por lo que no incluye novedades significativas.</p>
+
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 4.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica6.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<h4 align = right><font face="calibri" > Alumno: Mártínez Rivera Karol Valeria </font></h4>
+<h4 align = right><font face="calibri" > Grupo: 4BPV Materia:
+Desarrolla Aplicaciones WEB</font></h4>
+    <img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

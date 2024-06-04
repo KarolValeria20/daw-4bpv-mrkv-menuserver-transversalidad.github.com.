@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Practica 1 En HTML, Portada del Plantel </title>
+</head>
+<body>
+<body bgcolor="grey">
+<center>
+<h1><font face="georgia" color="red"> Bienvenidos al Planetel Educativo Media-Superior</font></h1>
+<h2><font face="georgia" color="red"> Escuela Preparatoria Cetis 156</font></h2>
+<h2><font face="georgia" color="black"> Centro de Estudios Tecnológicos Industrial y de Servicios No.156  Gral.Felipe Angeles Ramirez </font></h2>
+<img src = D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV/Cetis 156.jpg">
+
+
+<h3><font face="calibri" color="purple"> Carreras:</h3>
+<h3><font face="calibri" color="pink"> Programación</h3>
+<h3><font face="calibri" color="pink"> Electrónica</h3>
+</center>
+
+
+<h4><font face="calibri" color="maroon"> A.v. Del Parque S/N Mesa de Otay</font></h4>
+<h4><font face="calibri" color="maroon"> C.P. 22430 Tijuana Península de B.C.</font></h4>
+<h5><font face="calibri" color="maroon"> 664 623 1376</font></h5>
+<h5><font face="calibri" color="maroon"> cetis156.escolares@dgeti.sems.gob.mx</font></h5>
+<h6 align = right><font face="calibri" color="blue"> Alumno: Mártínez Rivera Karol Valeria </font></h6>
+<h6 align = right><font face="calibri" color="blue"> Grupo: 4BPV Materia:
+Desarrolla Aplicaciones WEB</font></h6>
+<hr>
+</body>
+</html>

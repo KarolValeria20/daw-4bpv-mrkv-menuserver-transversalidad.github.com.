@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 7, Top 10</title>
+<head>
+<body>
+<body bgcolor="pink">
+<center>
+<img src:"D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/top 10.jpg">
+</center>
+<h1>
+<center><i><font face="american bt" color="orange" size="30"> Top 10</font></i></center>
+</h1>
+<hr>
+<!-- aqui mi primera lista -->
+<ol align="left">
+<font color="yellow" face="bakersignet bt" size="7">
+<b><font color="purple">Lista de amigos</font></b><br>
+<li>Dulce Lagunas</li>
+<li>Alison Tec</li>
+<li>Karla Agiar</li>
+<li>Ellie Gusman</li>
+<li>Vianey del Valle</li>
+<li>Carlos Velasco</li>
+<li>Luz Solis</li>
+<li>Rocio Arenales</li>
+<li>Zoe Sanchez</li>
+<li>Bryan Fabian</li>
+</font>
+</ol>
+<br>
+<br>
+<table border="1" align="center">
+<tr>
+<td>
+<ol>
+<font color="green" face="bakerisignet bt" size="7">
+<b><font color"purple">Lista de Pasatiempos</font><br>
+<li>Leer</li>
+<li>Escuchar musica</li>
+<li>Pintar</li>
+<li>Ver peliculas</li>
+<li>Ver series</li>
+<li>Dormir</li>
+<li>Cosinar</li>
+<li>Salir</li>
+<li>Ir al cine</li>
+<li>Ver videos de BTS</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+<br>
+<table border="1" align="center">
+<tr>
+<td>
+<ol>
+<font color="blue" face="bakerisignet bt" size="7">
+<b><font color"purple">Lista de canciones favoritas</font><br>
+<li>Hate you-JungKook</li>
+<li>Yours-Jin</li>
+<li>Permission to Dance-BTS</li>
+<li>Blue & Grey-BTS</li>
+<li>Life goes on-BTS</li>
+<li>Love me again-V</li>
+<li>Rainy Days-V</li>
+<li>Somebody-JungKook</li>
+<li>Yes or No-Jungkook</li>
+<li>For Us-V</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+<br>
+<table border="1" align="right">
+<tr>
+<td>
+<ol>
+<font color="red" face="bakerisignet bt" size="7">
+<b><font color"purple">Lista de peliculas favoritas </font><br>
+<li>Sing</li>
+<li>Sing 2</li>
+<li>El increible castillo vagabundo</li>
+<li>Mulán</li>
+<li>Blanca Nieves</li>
+<li>Harry Potter la Piedra Filosofal</li>
+<li>Harry Potter el Principe Mestiso</li>
+<li>Harry Potter el Pricionero del Azkavan</li>
+<li>Rojo, Blanco y Sangre Real</li>
+<li>Miraculous:Las aventuras de LadyBug</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+<br>
+<hr>
+<center>
+<video src:"D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/video.mp4" controls width="300"  height="300">
+</video>
+</center>
+<h4 align=right><font face="calibri" color="red"> Alumno: Mártínez Rivera Karol Valeria fecha:21 de febrero del 2024 </font></h4>
+<h4 align = right><font face="calibri" color="red"> Grupo: 4BPV Materia: Desarrolla Aplicaciones WEB</font></h4>
+<hr>
+</body>
+</html>

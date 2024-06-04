@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 10, Signos del Zodiaco</title>
+</head>
+<body background ="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/GIFS/fondo.gif" >
+<h1><center><font color="blue" face="minion" size="30"><u><marquee>SIGNOS DEL ZODIACO</marquee></u></font></center></h1>
+<hr>
+<table border="1" align="center" width="70%" bgcolor="#BA8BED">
+<tr>
+<td><font color="#2766A9"><b>SIGNOS</b></font></td>
+<td><font color="#2766A9"><b>DEL</b></font></td>
+<td><font color="#2766A9"><b>AMOR</b></font></td>
+<td><font color="#2766A9"><b>DINERO</b></font></td>
+<td><font color="#2766A9"><b>NUMERO</b></font></td>
+<td><font color="#2766A9"><b>SALUD</b></font></td>
+<td><font color="#2766A9"><b>TRABAJO</b></font></td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES\acuario.jpeg" whith="100" heigh="100"></td>
+<td>Enero 20- Febrero 18</td>
+<td>La estimulación es por mucho su mayor afrodisiaco.No hay nada que atraiga más a un Acuario que una conversación interesante</td>
+<td>Cuando se trata de dinero, este signo zodiacal tiene talento para mantener un balance entre gastar y ahorrar dinero.</td>
+<td> 9,5,7,3,15</td>
+<td>El depeorte o ejercicio físico es un gran aliado para la salud de los Acuario ya que por un lado ayuda a mejorar o prevenir sus problemas circulatorios y por otro lado también le ayuda a descargar su estrés. Andar, parear o caminar a buen ritmo por el aire libre son ejercicios casi imprescindibles para su salud</td>
+<td>Son quienes llevan el entisiasmo a su trabajo y tiene una remarcable habilidad para explorar su imaginación con fines de negocio.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/piscis.jpeg" whith="100" heigh="100"></td>
+<td>Febrero 19- Marzo 20</td>
+<td>En lo profundo de sus corazones, los Piscis son románticos incorregibles. Son muy fieles tiernos e incondicionalmente generosos con sus parejas.</td>
+<td> Esn esta área hay dos lados de Piscis, por un lado gastarán mucho dinero sin siquiera pensarlo, miestras que por otro lado pueden ser muy tacaños.</td>
+<td> 6,13,17,22,26</td>
+<td>Pasados unos meses, al parecer entrarás en una fase depresiva causada por distintos problemas a los que te enfrentas.</td>
+<td>Lucha contra la lentitud impuesta por terceras personas en el trabajo No te dejan avanzar, esto tiene que saberse para ecitar que te hagan responsable, Piscis</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/aries.jpeg" whith="100" heigh="100"></td>
+<td>Marzo 21- Abril 19</td>
+<td>Aries es un signo  de fuego al cual le encanta coquetear y es la persona que tomará la iniciativa cuando se trata de romance.</td>
+<td>La razón de esto es que Aries le gusta gastar el dinero comprando, apostando y comerciando.</td>
+<td>4,9,7,4,6</td>
+<td>Seguiras culnerable en cuanto a la salud, debido al bajo nivel de energia que tienes y la gran exigencia profecional que vas a tener</td>
+<td>La profesión será lo más importante en tu vida durante todo el años, porque recogéras los frutos del duro trabajo, que has tenido que hacer durante los años anterionres. Profecionalmente tendras éxito y será lo más importante para ti</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/tauro.jpeg" whith="100" heigh="100"></td>
+<td>Abril 20- Mayo 20</td>
+<td> Prepárate para ser paciente si quieres a Tauro como amante. Son extremadamente sensuales y el tacto es muy importante para ellos.</td>
+<td> Tauro ama el dinero y trabajará duro para incrementar su cuanta bancaria.En el trabajo, Tauro es confiable, trabajador, paciente y minucioso.</td>
+<td>1,10,15</td>
+<td> Debes atender tus pies para que sus trastornos no repercuten negativamente en tu salud.Cuidalos como debes con un baño tibio unos diez o quince minutos con aceites, un buen calzado.</td>
+<td>Tu manera de enfrentar cierta situación laboral complicada te ayudará a resolver de forma rápida y eficiente.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPVI/MAGENES/geminis.jpeg" whith="100" heigh="100"></td>
+<td>Mayo 21-Junio 20</td>
+<td>Divertidos y siempre listo para un reto intelectual, Géminis es un amante feroz.La comunicación es muy importante para Géminis, tanto como el contacto fisico y cuando estos so aspectos se combinan nada es un odstáculo.</td>
+<td>El mejor empleo para un Géminis es aquel que estimula el intelecto, Los Géminis son personas hábiles, imgeniosas y a menudo muy inteligentes, es por ello que su trabajo debe ser dinámico y desafiante.</td>
+<td>1,0,33,77,522,106</td>
+<td>Mejorarás en tus dolencias crónicas especialmente si están asociadas con las vias respiratorias o digestivas. Si gozas ahora de buena salud no la vayas a estropar cometiendo los errores que en otras oportunidades te han causado problemas.</td>
+<td>Estarás algo indeciso y no sabes si debes seguir en el empleo actual o cambiar de posición.No es un día adecuado para tomar semejantes decisión sino más bien para pensarla, estudiarla y considerarla desde diferentes ángulos y perspectivas.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/cancer.jpeg" whith="100" heigh="100"></td>
+<td>Junio 21-Julio 22</td>
+<td>Cáncer es un signo sumamente emocional, es por eso que para ellos los sentimientos son los más importante cuando se trata de amor y romance.</td>
+<td>Cáncer puede ser muy persistente y sensible.CUando hay trabajo por hacer, se arremanga la camisa y realizan el trabajo con éxito.</td>
+<td>9,78,4,117,252,296</td>
+<td>La salud será delicada y tu no le vas a prestar demaciada atencíón. Recuerda que, como hemos dicho, trabajarás mucho y podrias sobre cargarte de tal manera, que acabes agotado.Tines qie encontrar tiempo, pata desconestar y descansar.</td>
+<td>Estarás algo indeciso y sabes seguir en el empreo actual o cambiar de posición para tomar semejante decisión sino más bien para pensarla, estudiarla y considerarla desde diferentes ángulos y perspectivas.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/leo.jpeg" whith="100" heigh="100"></td>
+<td>Julio 23-Agosto 22</td>
+<td>Este signo de fuego es apacionado y sincero respecto a sus sentimentos. Cuando se trata de sexo Leo puedes ser aventurero, divertido y enérgico.</td>
+<td>Leo está lleno de brillo y enetgia y tiende a estar siempre acupados, no importa lo que suceda alrededor. Son ambiciosos, crativos y optimistas.</td>
+<td>1,14,23,19,29,30</td>
+<td>Si padeces de probleas en la audición o los oidos en general este es un tiempo apropiado para ir a un especialista y efectuarte una revisión completa.</td>
+<td>Si hoy te sientes más respetado y admirado en en otras oportunidades en tu trabajo debes aprobechar este impacto positivos en tu empleo para pedir o realizar esa entrevisra laboral capaz de cambiar tu vida</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/virgo.jpeg" whith="100" heigh="100"></td>
+<td>Agosto 23-Septiembre 22</td>
+<td>LOs Virdo necesitan sentirse deseaados por sus parejas. Son metódicos y tácticos, lo cual los convirte en exelentes amantes.</td>
+<td>Los Virgo son personas prácticas, analíticas y trabajdoras, por ello siempre sabrán como ir al núcleo de los problemas</td>
+<td>5,8,13,25,33</td>
+<td>Muchos cuidado con los alimentos de origen animal que ingieres en estos días por que tienes la sensibilidad muy alta.</td>
+<td>Antes de dal los últimos pasos concentrate en un empleo nuevo o un negocio que estás preparando deha todo bien organizado en tu trabajo actual y espera un poco.</td>
+</tr>
+<tr>
+<td><img src= "D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/libra.jpeg"whith="100" heigh="100"></td>
+<td>Septiembre 23-Octubres 22</td>
+<td>Encontrar al compañero ideal será una prioridad en la vida de las personas nacidad bajo el signo de Libra.</td>
+<td>Pra Libra, mantener el balance y la hamonía es lo más importante.Puede ser grandes lideres y trabajaran duro para ganar los privilegios que desean.</td>
+<td>42.81,135,107,212,296</td>
+<td>Los ejercicios y la vida activa son los que te garantizan una buena salud. Aunque estés muy cansado mentalmente separa tempo para tu caminata diaria o para ponerte en contacto con la naturalez y mover tus músculos.</td>
+<td>Tal vez tengas la impresión que tus compañeros de trabajo están desconcentrados y todo sale mal por su culpa. Si es asi ha llegado la hora de revisar tú actuación. Quizás seas tú quien esté haciendo mal las cosas y debas cambiar tu estrategia.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/escorpio.jpeg" whith="100" heigh="100"></td>
+<td>Octubre 23- Noviembre 21</td>
+<td>Los Escorpios son extremadamente apacionados y la intimidad es muy importante para ellos. Quieres parejas inteligentes y honestas.</td>
+<td>Los Escorpio son excelentes admiradoes, creadores y solucionadores de problemas.Cuando un Escorpio se pone una meta, no hay nada que lo detenga. </td>
+<td>4,8,13,17,22,26</td>
+<td>El consumir, en abundancia, genera malos habitos.El deporte o ejercicos fisiscos es un gran aliados para tu salud.</td>
+<td>Algo que esperabas en tu vida laboral empieza a cristalizar y si en este viernes te sentías con una premonición</td>
+</tr>
+<tr>
+<td><img src= "D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/sagitario.jpeg" whith="100" heigh="100"></td>
+<td>Noviembre 22-Diciembre 21</td>
+<td>Las personas nacidas bajo el signo de Sagitario son muy jugetonas y humoristicas, lo que significa que van a disfrutar divertirse con sus parejas.</td>
+<td>Cuando Sagitario visualiza algo en su mente, hace todo lo posible para hacerlo una realidad. Siempre sabem que decir esn una situación dada y son grandes vendedores.</td>
+<td>4.8.13,17,22,26</td>
+<td>No hay nada mejor que un baño después de una jornada fatigosa, pero será mejor si lo puedes combinarlo con una ducha vigorosa de agua fría.</td>
+<td>Algo que esperabas en tu vida laboral empieza a cristalizar y si en este viernes te sentias con una premonición o inquietud veras disipadas tus duads se´gún trancurra el día y resuelves de trabajo en muy poco tiempo.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/capricornio.jpeg" whith="100" heigh="100"></td>
+<td>Diceimbre 22- Enero 19</td>
+<td>Cuando se trata de amor y reaciones, es dificil ganarle a un Capricornio.</td>
+<td>Los nacidos Capricornio son muy ingeniosos y saben cómo menejar su tiempo y dinero.</td>
+<td>4,8,13,17,22,26</td>
+<td>Si te has sentido indispuesto recientemente, con falta de enrgia y problemas en tu sustema digentivo no te alermes ni salgas correindo al médico.</td>
+<td>No olvides que ti actitud es determinate y según reacciones a lo imprevisto asi será el resultado obtenido.</td>
+</tr>
+</table>
+<center>
+<a target="_blanck" href="ttps://www.astrology-zodiac-signs.com/es/" title="Ir a la pagina oficial del Horoscopo>
+<b> 12 SIGNOS ASTROLOGICOS<b>
+</center>
+<hr>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD9 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica9.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD11 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 11.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<h5 align=right><font face="calibri" color="red"> Alumno: Mártínez Rivera Karol Valeria fecha:09 de marzo del 2024 </font></h5>
+<h5 align = right><font face="calibri" color="red"> Grupo: 4BPV Materia: Desarrolla Aplicaciones WEB</font></h5>
+<hr>
+</body>
+</html>

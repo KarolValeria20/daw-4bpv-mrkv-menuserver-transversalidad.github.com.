@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 14, Menu de Practicas</title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD14 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 14.css" media="all"/>
+</head>
+<body>
+<h1>
+<center>
+<marquee><u><font face= castellar color="#134275">"MENU DE PRACTICAS EN HTML."</font></u></marquee>
+</center>
+</h1>
+<body background ="D:\DAW\ACTIVIDAD11 MARTINEZ RIVERA KAROL VALERIA 4BPV/GIFS/fondo.gif" >
+<center>
+	<font color="#FFFB00">
+		<h1><u>MENU DE PRACTICAS</u></h1>
+	</font>
+</center>
+
+<font color="#87FF00">
+<b>PRACTICA1.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV\PRACTICA1.html">
+<img src="D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/Cetis 156.jpg" title="Clic para ir a la PRACTICA1.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD1 MARTINEZ RIVERA KAROL VALERIA 4BPV\PRACTICA1.html">IR A LA PRACTICA1.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA2.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica2.html">
+<img src="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/hate you.jpg" title="Clic para ir a la PRACTICA2.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica2.html"> IR A LA PRACTICA2.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA3.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 3.html">
+<img src= "D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/cabaña.jpg"title="Clic para ir a la PRACTICA3.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 3.html"> IR A LA PRACTICA3.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA4.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 4.html">
+<img src= "D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/galletas.jpg"title="Clic para ir a la PRACTICA4.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 4.html"> IR A LA PRACTICA4.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA5.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 5.html">
+<img src="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/HTML.jpg" title="Clic para ir a la PRACTIC5.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 5.html"> IR A LA PRACTICA5.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA6.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica6.html">
+<img src= "D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/tortuga.jpg" title="Clic para ir a la PRACTICA6.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica6.html"> IR A LA PRACTICA6.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA7.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 7.html">
+<img src="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/top 10.jpg" title="Clic para ir a la PRACTICA7.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 7.html"> IR A LA PRACTICA7.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA8.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD8 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica8.html">
+<img src="D:\DAW\ACTIVIDAD8 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/16 de Octubre.jpg" title="Clic para ir a la PRACTICA.8html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD8 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica8.html"> IR A LA PRACTICA8.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA9.HTML >>></b>
+<a target="_blanck" href="D:\DAW\ACTIVIDAD9 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica9.html">
+<img src="D:\DAW\ACTIVIDAD9 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/imagen5.jpg" title="Clic para ir a la PRACTICA9.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD9 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica9.html"> IR A LA PRACTICA9.HTML</a></h3>
+</a>
+</font><br>
+<font color="#FF9E00">
+<b>PRACTICA10.HTML >>></b>
+<a target="_blanck" href= "D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 10.html">
+<img src="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/signos.jpeg" title="Clic para ir a la PRACTICA10.html" width="50" height="50">
+<h3 align="right">
+<a target="_blanck" href="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 10.html"> IR A LA PRACTICA10.HTML</a></h3>
+</a>
+</font><br>
+<hr>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD10 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 10.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+</tr>
+</table>
+<h5 align=right><font face="calibri" color="red"> Alumno: Mártínez Rivera Karol Valeria fecha:09 de marzo del 2024 </font></h5>
+<h5 align = right><font face="calibri" color="red"> Grupo: 4BPV Materia: Desarrolla Aplicaciones WEB</font></h5>
+<hr>
+</body>
+</html>

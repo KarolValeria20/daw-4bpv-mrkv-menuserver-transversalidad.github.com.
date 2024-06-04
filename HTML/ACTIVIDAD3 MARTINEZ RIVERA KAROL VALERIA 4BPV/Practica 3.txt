@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practia 3 Un Cuento </title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 3.css" media="all"/>
+</head>
+<body>
+<center>
+<img src = "D:\DAW\ACTIVIDAD3 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES/cabaña.jpg">
+<h1><font face ="didot" > Un Recuerdo </font></h1>
+</center>
+<h2>
+<font face="optima" >	
+<p align="left"> Cuenta la historia que en un pueblo a la orilla del mundo<br>
+exixtia una familia poco común que vivia en una cabaña al borde del rio,<br>
+habia un papá, una mamá enferma y dos pequeños Julia y Peter. Un día por 
+la <br>
+mañana el papá desperto a los dos niños minutos antes de que cantara el <br>
+gallo, ellos se levantaron, comieron el deayuno que mamá les preparaba y <br>
+se marcharon. Poco tiempo despues el pequeño Peter pregunto - ¿Papá a 
+donde <br>
+vamos? - este le contesto - Pronto sabras mi niño - Caminaron y caminaron <br>
+hasta el punto de no poder más, de repente Julia le dijo - Papá podrias <br>
+cargarme estoy realmente cansada - el voltio a donde su hija y sin dudarlo la <br>
+levanto por los aires  y la acomodo en sus brasos y despues cargo al pequeño 
+<br>
+Peter en sus hombros y siguio caminando. Horas despues la noche cayo y se <br>
+vieron en la obligados a parar desmontaron sus cosas, prendieron una fogata y <br>
+estendieron sus cosas. A la mañana siguiente el Papá se levanto, camino un<br>
+poco y cuando vio que estaba a suficiente distancia de la fogata se hecho a llorar. </p>
+
+<p align="right"> La pequeña julia al escuchar un ruido desperto, observo<br>
+a su alrededor y al no ver a su papá lo busco, se aserco tranquilamente a 
+el<br>
+y le pregunto -¿Donde estabas? ¿Por qué lloras?- el destrosado le contesto<br>
+-Aqui estoy amor y lloro por que te amo a ti y a Peter - ella sin entender 
+lo<br>
+que sucedia solo lo abrazo. Una vez llegando a su dstino. Peter y Julia<br>
+corrieron entuciasmados pues el lugar era bellisimo, era como un paraiso<br>
+fuera de este mundo, disfrutaron y fueron felices, pero a la hora de la<br>
+comida todo se torno oscuro lo que era maravilloso habia desaparecido, el<br>
+papá miro a todos lados sin encontrar o allar algun rastro de sus pequeños<br>
+el desesperado comenzo a gritar - Julia, Peter - una y otra vez sin<br>
+respuesta alguna. sin darse cuenta piso mal y cayo inconsiente, segundos<br> 
+despues a lo lejos escuhaba una vos que decia - Señor reaccione por favor<br> 
+- El abrio los ojor y de vuelta a la realidad, colvio a observar a su <br>
+alrededor, miro a varias personas y deseperadamente pregunto - Mis hijos,<br>
+¿Donde estan mis hijos? - Uno de ellos respondio - Lo siento intentamos 
+hacer<br> 
+lo mejor posible para salvarlos pero no lo logramos - Al recuperar toda la<br>
+conciencia comenzo a llorar y a culparse, pues toda aquella felicidad,solo<br>
+había sido un deja´vu pues tanto como su esposa he hijos habian muerto en 
+una<br>
+terrible incidente y todo aquello había sido su ultima despedida.</p>
+</font>
+</h2>
+
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD2 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica2.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD4 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 4.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+
+<h4 align = right><font face="calibri" > Alumno: Mártínez Rivera Karol Valeria </font></h4>
+<h4 align = right><font face="calibri" > Grupo: 4BPV Materia:
+Desarrolla Aplicaciones WEB</font></h4>
+<img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

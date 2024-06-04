@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 6,Mis Mascotas </title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica6.css" media="all"/>
+</head>
+<body>
+<center>
+<img src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/tortuga.jpg">
+<h1><font face ="georgia" > MIS TORTUGAS </font></h1>
+</center>
+
+<h2><font face="didot">
+<img src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/tortuga 4.jpg">	
+<p align="left"> Esta es la Historia de mis tortugas, solo he tenido dos tortugas a lo largo de mi vida por lo que les contare<br> 
+sobre ellas.Flash<font color="pink"><b>(La tortuga mas grande)</b></font>, es una tortuga hembra, ella es una tortuga muy<br>
+tranquila y le gusta observar a su alrededor para ver que pasa, es muy cariñosa. Elas llego a mi vida apreximadamente hace 10 meses <br>
+cuando ella era tansolo una bebé, cuando llego a la casa llego asustada pero muy curiosa, rapida mente se adapto a<br> 
+su nuevo hogar, pero lamentablemente no teniamos la pesera, el filtro, su lampara y todo lo que nesecitara lo cual implico que se pusiera en un traste de mi mamá.<br>
+con unas piedras como sona seca, pero como el agua estab muy fria no comia tanto y estaba entrando en un procesos de brumación.<br>
+Por lo cual la teniasmos siempre a fuera.<br>
+Cuando llegaba personas nuevas o que no conocia,animales o cualquier cosa a la casa ella se ponia muy territorial y celosa pero aun asi la quiero mucho.<br>
+Ella es mi primara bebé y espero que cresca mucho y viva muchos años y siempre este saludable</font></p><br></h2>
+<div align ="center">
+<embed src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/flash.mp4">
+<embed src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/Flash.1.mp4">
+</div>
+<hr>
+<p align="right"><img src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\IMAGENES\tortuga 3.jpg"></p>
+<font face="optima" >
+<h3><p align="right">
+Por otro lado Wall-e llego dos meses despues que Flash, por lo cual la situación fue totalmente diferente, ya teníamos<br>
+su pesera, su filtro, su lampara y todo lo nesesario, pero la Flash la teniamos bien consentida que cuando llego el Wall-e se le quedaba vienendo feo,<br>
+y lo ignorava, cuando estaban en la pecera y se les daba de comer ella no comia por que Wall-e esta comiendo lo mismo, lo maltrataba<br>
+mucho y a mi me ignoraba y no me hacia caso, pero aun asi Wall-e esta de tras de ella, la protegia cuando se saustaba, le abrazaba<br>
+cuando tenia frio y la dejaba estar en la isla aun cuando a el no lo dejaba subir, si lo describiera dieria que es un amor de animal y te da cariño y amor de muchas maneras.<br>
+Es una tortuga muy cariñosa pero no sabe medir los peligros, por que se a dado unos buenos golpes que me sacan el alma del susto<br>
+es muy activa le gusta mucho eschuchar musica y en especial le encanta la de BTS(Se pone a bailar con sus canciones, bueno en general con todas)<br>
+le gusta comer mucho, en especial los camparones pero el come todo lo que se le dada y parace que no tiene llendera por que a cada reto quuere comer,<br>
+pero lo quiero mucho y es también mi bebe y espero que viva muchos años con buena salud, con buena actividad y sea feliz.</p></h3></font><br>
+<div align="center">
+<embed src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/Wall-e.mp4">
+<embed src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/walle.mp4">
+</div>
+<hr>
+<!--Aquí etiqueta para lista y sus atributos-->
+<h3><p>Caracteristicas de mis mascotas</p></h3>
+<ul>
+<u>Les encanta escalar todo lo que ven, asi este su vida en peligro.
+<u>Son muy amorosas y les encanta recibir cariñitos.
+<u>Si no les das de comer en la boca no comen.
+<u>Tiene un romance secreto pero piensan que no lo se.
+<u>Son juguetonas
+<u>Les encata hacerce del baño en mi cama.
+</u>
+<center>
+<embed src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/Tortugas.mp4">
+</center>
+<hr>
+<img src="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/tortuga 1.jpg">
+<!--Aqui la etiqueta paea poner sus atributos, para poner la tabla-->
+<table border="1">
+<thead>
+<tr>
+<th>Hora</tr>
+<th>Alimento</tr>
+<th>Bañar</th>	
+</tr>
+</thead>
+<thbody>
+<tr>
+<td>7:00am</td>
+<td>Desayuno</td>
+<td>2 veses al mes</td>
+</tr>
+<tr>
+<td>4:00 pm</td>
+<td>Comida</td>
+<td>2 veses al mes</td>
+</tr>
+<tr>
+<td>10:00 pm</td>
+<td>Cena</td>
+<td></td>
+</tr>
+</thbody>
+</table>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD5 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 5.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 7.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<h5 align = right><font face="calibri" > Alumno: Mártínez Rivera Karol Valeria </font></h5>
+<h5 align = right><font face="calibri" > Grupo: 4BPV Materia:Desarrolla Aplicaciones WEB</font></h5>
+    <img src="D:/DAW/CUBO/CUBO.gif" class="img">
+<hr>
+</body>
+</html>

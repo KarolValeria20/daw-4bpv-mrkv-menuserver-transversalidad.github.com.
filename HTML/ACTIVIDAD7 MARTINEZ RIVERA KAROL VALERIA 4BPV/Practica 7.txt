@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 7, Top 10</title>
+<link rel="stylesheet"type="text/css" href="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica 7.css" media="all"/>
+</head>
+<body>
+<center>
+<img src="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV/IMAGENES/top 10.jpg">
+</center>
+<h1>
+<center><i><font face="american bt"> Top 10</font></i></center>
+</h1>
+<hr>
+<div class="card0">
+<ol align="left">
+<font face="bakersignet bt">
+<b>Lista de amigos</font></b><br>
+<li>Dulce Lagunas</li>
+<li>Alison Tec</li>
+<li>Karla Agiar</li>
+<li>Ellie Gusman</li>
+<li>Vianey del Valle</li>
+<li>Carlos Velasco</li>
+<li>Luz Solis</li>
+<li>Rocio Arenales</li>
+<li>Zoe Sanchez</li>
+<li>Bryan Fabian</li>
+</font>
+</ol>
+<br>
+</div>
+<div class="card1">
+<table border="1" align="center">
+<tr>
+<td>
+<ol>
+<font face="bakerisignet bt" >
+<b>Lista de Pasatiempos<br>
+<li>Leer</li>
+<li>Escuchar musica</li>
+<li>Pintar</li>
+<li>Ver peliculas</li>
+<li>Ver series</li>
+<li>Dormir</li>
+<li>Cosinar</li>
+<li>Salir</li>
+<li>Ir al cine</li>
+<li>Ver videos de BTS</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+<br>
+</div>
+<div class="card2">
+<table border="1" align="center">
+<tr>
+<td>
+<ol>
+<font face="bakerisignet bt" >
+<b>Lista de canciones favoritas<br>
+<li>Hate you-JungKook</li>
+<li>Yours-Jin</li>
+<li>Permission to Dance-BTS</li>
+<li>Blue & Grey-BTS</li>
+<li>Life goes on-BTS</li>
+<li>Love me again-V</li>
+<li>Rainy Days-V</li>
+<li>Somebody-JungKook</li>
+<li>Yes or No-Jungkook</li>
+<li>For Us-V</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+<br>
+</div>
+<div class="card3">
+<table border="1" align="right">
+<tr>
+<td>
+<ol>
+<font face="bakerisignet bt" >
+<b>Lista de peliculas favoritas<br>
+<li>Sing</li>
+<li>Sing 2</li>
+<li>El increible castillo vagabundo</li>
+<li>Mulán</li>
+<li>Blanca Nieves</li>
+<li>Harry Potter la Piedra Filosofal</li>
+<li>Harry Potter el Principe Mestiso</li>
+<li>Harry Potter el Pricionero del Azkavan</li>
+<li>Rojo, Blanco y Sangre Real</li>
+<li>Miraculous:Las aventuras de LadyBug</li>
+</font>
+</ol>
+</td>
+</tr>
+</table><br>
+</div>
+<br>
+<hr>
+<center>
+<video src="D:\DAW\ACTIVIDAD7 MARTINEZ RIVERA KAROL VALERIA 4BPV/VIDEO/video.mp4" controls width="300"  height="300">
+</video>
+</center>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD6 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica6.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW"><font color="red">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="D:\DAW\ACTIVIDAD8 MARTINEZ RIVERA KAROL VALERIA 4BPV\Practica8.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+</tr>
+</table>
+<div class="card4">
+<h4 align=right><font face="calibri"> Alumno: Mártínez Rivera Karol Valeria fecha:21 de febrero del 2024 </font></h4>
+<h4 align=right><font face="calibri"> Grupo: 4BPV Materia: Desarrolla Aplicaciones WEB</font></h4>
+    <img src="D:/DAW/CUBO/CUBO.gif" class="img">
+</div>
+<hr>
+</body>
+</html>
